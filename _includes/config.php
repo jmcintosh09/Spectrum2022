@@ -1,7 +1,7 @@
 <?php 
 
 	/* DEFAULT STRUCTURE ELEMENTS */
-	$rootdirectory = "/xampp/htdocs/Spectrum2022";
+	$rootdirectory = "./";
 
 	$headerpath = $rootdirectory."/_includes/header.php";
 	$headerimage_url = "https://auburn.edu/template/2022/_assets/images/logos/auburn/formal_horiz/fullcolor/auburn_formal_h_fullcolor.png";
