@@ -8,7 +8,7 @@ $titleimagepath = $rootdirectory."/images/spectrum_icon.png"; ?>
 	/* PAGE & SPECIFIC METADATA - These are basic page metadata variables that can be customized for each page; These can also be updated on your config file for site-wide usage */
 
 	$sitename = "Auburn University";
-	$pagetitle = "Life Case 1";
+	$pagetitle = "Life Case 4";
 	$keywords = "Auburn University, Auburn, Alabama, War Eagle";
 	$description = "Auburn University, one of the South’s largest universities, is a leader in arts and applied science education, and it brings a tradition of spirit to the responsive career preparation it offers.";
  	$previewimage = "https://auburn.edu/template/2022/_assets/images/bank/page-preview-samford-03.jpg";
@@ -41,8 +41,8 @@ $titleimagepath = $rootdirectory."/images/spectrum_icon.png"; ?>
 			  <ol class="breadcrumb">
 				<li class="breadcrumb-item"><a href="index.php">Spectrum</a></li>
 				<li class="breadcrumb-item"><a href="life-cases.php">Life Cases</a></li>
-				<li class="breadcrumb-item"><a href="life-case-1.php">Life Case 1</a></li>
-				<li class="breadcrumb-item active" aria-current="page">Life Case 1 Reflection</li>
+				<li class="breadcrumb-item"><a href="life-case-4.php">Life Case 4</a></li>
+				<li class="breadcrumb-item active" aria-current="page">Life Case 4 Reflection</li>
 			  </ol>
 			</nav>
 			
@@ -51,23 +51,31 @@ $titleimagepath = $rootdirectory."/images/spectrum_icon.png"; ?>
 		<div class="content_row row">
 			
 			<div class="col">
-				<h2 class="section-header">Life Case 1</h2>
-				<h3 class="section-header">Threatening Student</h3>
+				<h2 class="section-header">Life Case 4</h2>
+				<h3 class="section-header">Disrespectful Student</h3>
 				<div class="col-md-6 information">
 					<div class="info">
-					
-						<strong> What is the next course of action you should take?</strong>
+						<strong>In such a situation, what would you do?</strong>
 						<br>
-						<input name="Radio1" type="radio" value="yes"> Schedule a conference with the parents. <br>
-						<input name="Radio1" type="radio" value="no"> Send them to time-out. <br>
-						<input name="Radio1" type="radio" value="no"> Send the students to the counselor. <br>	
-						<br>				
+						<input name="Radio2" type="radio" value="yes"> Ignore Kim and her behaviour. <br>
+						<input name="Radio2" type="radio" value="no"> Scold Kim for being late and disturbing the class. <br>
+						<input name="Radio2" type="radio" value="no"> After the class, talk with Kim and enquire why she is crying and try to help her out.<br>
+						<br>
+					</div>
+
+					<div class="info">
+						<strong>Clearly it states that Kim is disturbed. What would you do to help her? </strong>
+						<br>
+						<input name="Radio1" type="radio" value="yes"> Once you have talked to Kim, if the reason she stated is personal, talk to her parents.<br>
+						<input name="Radio1" type="radio" value="no"> Ignore Kim, as she is crying because of personal reasons. <br>
+						<input name="Radio1" type="radio" value="no"> Do not ask Kim why she is crying and tell her not to cry again in the class. <br>
+						<br>
 					</div>
 				</div>			
 				<div class="col-md-4 information">
 					<div class="buttons row">
-						<a href="life-case-1.php" class="btn btn-au-odark col">Back</a>
-						<a href="life-case-1-answer.php" class="btn btn-au-bdark col">Next</a>
+						<a href="life-case-4.php" class="btn btn-au-odark col">Back</a>
+						<a href="life-case-4-answer.php" class="btn btn-au-bdark col">Next</a>
 					</div>
 				</div>
 			</div>

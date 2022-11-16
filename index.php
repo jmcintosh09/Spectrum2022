@@ -27,8 +27,9 @@ include ($headerpath);
 			<div class="col">
                 
 				<h1 id="page_title" class="title">
-				<img src="<? echo $titleimagepath;?>" width="150" height="100" class="d-print-none" alt="<? echo $headerimage_alt;?>"> 
-				 Spectrum Educational Tool</h1>
+					<img src="<? echo $titleimagepath;?>" width="150" height="100" class="d-print-none" alt="<? echo $headerimage_alt;?>"> 
+					Spectrum Educational Tool
+				</h1>
 			</div>
 			<div class="angle-right"></div>
 		</div>
@@ -55,36 +56,17 @@ include ($headerpath);
 		  <a class="nav-link" href="#">Home</a>
 		</li>
 		<li class="nav-item">
-		  <a class="nav-link" href="#">Services</a>
+		  <a class="nav-link" href="#">About</a>
 		</li>
 		<li class="nav-item">
 		  <a class="nav-link" href="#">Case Studies</a>
 		</li>
 		<li class="nav-item">
 		  <a class="nav-link" href="life-cases.php">Life Cases</a>
-		</li> 
-		<li class="nav-item dropdown">
-          <a id="navbarDropdown01" class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-            Item #3
-          </a>
-          <ul class="dropdown-menu" aria-labelledby="navbarDropdown01">
-			<li><a class="dropdown-item" href="#">Chapter 1</a></li>
-			  <li><a class="dropdown-item" href="#">Chapter 2</a></li>
-			  <li><a class="dropdown-item" href="#">Chapter 3</a></li>
-			  <li><a class="dropdown-item" href="#">Chapter 4</a></li>
-          </ul>
-        </li>   
-		<li class="nav-item">
-		  <a class="nav-link" href="#">Tools</a>
 		</li>
 		<li class="nav-item">
 		  <a class="nav-link" href="#">Contact Us</a>
 		</li>
-		<li class="nav-item dropdown">
-          <a id="navbarDropdown02" class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-            Item #6
-          </a>
-        </li>
 	  </ul>
 	</div>
   </div>

@@ -7,7 +7,7 @@ require($rootdirectory."/_includes/config.php"); ?>
 	/* PAGE & SPECIFIC METADATA - These are basic page metadata variables that can be customized for each page; These can also be updated on your config file for site-wide usage */
 
 	$sitename = "Auburn University";
-	$pagetitle = "Spectrum Educational Tool";
+	$pagetitle = "Life Cases";
 	$keywords = "Auburn University, Auburn, Alabama, War Eagle";
 	$description = "Auburn University, one of the South’s largest universities, is a leader in arts and applied science education, and it brings a tradition of spirit to the responsive career preparation it offers.";
  	$previewimage = "https://auburn.edu/template/2022/_assets/images/bank/page-preview-samford-03.jpg";
@@ -40,36 +40,17 @@ require($rootdirectory."/_includes/config.php"); ?>
 		  <a class="nav-link" href="index.php">Home</a>
 		</li>
 		<li class="nav-item">
-		  <a class="nav-link" href="#">Services</a>
+		  <a class="nav-link" href="#">About</a>
 		</li>
 		<li class="nav-item">
 		  <a class="nav-link" href="#">Case Studies</a>
 		</li>
 		<li class="nav-item">
 		  <a class="nav-link" href="#">Life Cases</a>
-		</li> 
-		<li class="nav-item dropdown">
-          <a id="navbarDropdown01" class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-            Item #3
-          </a>
-          <ul class="dropdown-menu" aria-labelledby="navbarDropdown01">
-			<li><a class="dropdown-item" href="#">Chapter 1</a></li>
-			  <li><a class="dropdown-item" href="#">Chapter 2</a></li>
-			  <li><a class="dropdown-item" href="#">Chapter 3</a></li>
-			  <li><a class="dropdown-item" href="#">Chapter 4</a></li>
-          </ul>
-        </li>   
-		<li class="nav-item">
-		  <a class="nav-link" href="#">Tools</a>
 		</li>
 		<li class="nav-item">
 		  <a class="nav-link" href="#">Contact Us</a>
 		</li>
-		<li class="nav-item dropdown">
-          <a id="navbarDropdown02" class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-            Item #6
-          </a>
-        </li>
 	  </ul>
 	</div>
   </div>
@@ -95,9 +76,9 @@ require($rootdirectory."/_includes/config.php"); ?>
 						<a href="life-case-1.php">
 							<div class="card h-100">
 								<img 
-									src='./life-case-images/1/1.png' 
-									onmouseover="this.src='./life-case-images/1/2.png';" 
-									onmouseout="this.src='./life-case-images/1/1.png';" 
+									src='./life-case-images/1/2.png' 
+									onmouseover="this.src='./life-case-images/1/1.png';" 
+									onmouseout="this.src='./life-case-images/1/2.png';" 
 									class="card-img-top" 
 									alt="..." 
 								/>
@@ -113,9 +94,9 @@ require($rootdirectory."/_includes/config.php"); ?>
 						<a href="life-case-2.php">
 							<div class="card h-100">
 								<img 
-									src='./life-case-images/2/1.png' 
-									onmouseover="this.src='./life-case-images/2/2.png';" 
-									onmouseout="this.src='./life-case-images/2/1.png';" 
+									src='./life-case-images/2/2.png' 
+									onmouseover="this.src='./life-case-images/2/1.png';" 
+									onmouseout="this.src='./life-case-images/2/2.png';"
 									class="card-img-top" 
 									alt="..." 
 								/>
@@ -131,9 +112,9 @@ require($rootdirectory."/_includes/config.php"); ?>
 						<a href="life-case-3.php">
 							<div class="card h-100">
 								<img 
-									src='./life-case-images/3/1.png' 
-									onmouseover="this.src='./life-case-images/3/2.png';" 
-									onmouseout="this.src='./life-case-images/3/1.png';" 
+									src='./life-case-images/3/2.png' 
+									onmouseover="this.src='./life-case-images/3/1.png';" 
+									onmouseout="this.src='./life-case-images/3/2.png';"
 									class="card-img-top" 
 									alt="..." 
 								/>
@@ -153,9 +134,9 @@ require($rootdirectory."/_includes/config.php"); ?>
 						<a href="life-case-4.php">
 							<div class="card h-100">
 								<img 
-									src='./life-case-images/4/1.png' 
-									onmouseover="this.src='./life-case-images/4/2.png';" 
-									onmouseout="this.src='./life-case-images/4/1.png';" 
+									src='./life-case-images/4/2.png' 
+									onmouseover="this.src='./life-case-images/4/1.png';" 
+									onmouseout="this.src='./life-case-images/4/2.png';"
 									class="card-img-top" 
 									alt="..." 
 								/>
@@ -171,9 +152,9 @@ require($rootdirectory."/_includes/config.php"); ?>
 						<a href="life-case-5.php">
 							<div class="card h-100">
 								<img 
-									src='./life-case-images/5/1.png' 
-									onmouseover="this.src='./life-case-images/5/2.png';" 
-									onmouseout="this.src='./life-case-images/5/1.png';" 
+									src='./life-case-images/5/2.png' 
+									onmouseover="this.src='./life-case-images/5/1.png';" 
+									onmouseout="this.src='./life-case-images/5/2.png';" 
 									class="card-img-top" 
 									alt="..." 
 								/>
@@ -189,9 +170,9 @@ require($rootdirectory."/_includes/config.php"); ?>
 						<a href="life-case-6.php">
 							<div class="card h-100">
 								<img 
-									src='./life-case-images/6/1.png' 
-									onmouseover="this.src='./life-case-images/6/2.png';" 
-									onmouseout="this.src='./life-case-images/6/1.png';" 
+									src='./life-case-images/6/2.png' 
+									onmouseover="this.src='./life-case-images/6/1.png';" 
+									onmouseout="this.src='./life-case-images/6/2.png';"
 									class="card-img-top" 
 									alt="..." 
 								/>
@@ -204,162 +185,6 @@ require($rootdirectory."/_includes/config.php"); ?>
 					</div>
 				
 				</div>
-				
-				<!--<h3 class="section-header">Sub-Department Name</h3>
-				
-				<div class="row row-cols-1 row-cols-sm-3 row-cols-xl-4">
-					
-					<div class="col item">
-						<a href="">
-							<div class="card h-100">
-								<img src="../_assets/images/profile-blank.jpg" class="card-img-top" alt="...">
-								<div class="card-body">
-									<h4 class="card-title">John Doe</h4>
-									<p class="card-text">Title Goes Here</p>
-								</div>
-							</div>
-						</a>	
-					</div>
-					
-					<div class="col item">
-						<a href="">
-							<div class="card h-100">
-								<img src="../_assets/images/profile-blank.jpg" class="card-img-top" alt="...">
-								<div class="card-body">
-									<h4 class="card-title">John Doe</h4>
-									<p class="card-text">Title Goes Here</p>
-								</div>
-							</div>
-						</a>	
-					</div>
-					
-					<div class="col item">
-						<a href="">
-							<div class="card h-100">
-								<img src="../_assets/images/profile-blank.jpg" class="card-img-top" alt="...">
-								<div class="card-body">
-									<h4 class="card-title">John Doe</h4>
-									<p class="card-text">Title Goes Here</p>
-								</div>
-							</div>
-						</a>	
-					</div>
-					
-					<div class="col item">
-						<a href="">
-							<div class="card h-100">
-								<img src="../_assets/images/profile-blank.jpg" class="card-img-top" alt="...">
-								<div class="card-body">
-									<h4 class="card-title">John Doe</h4>
-									<p class="card-text">Title Goes Here</p>
-								</div>
-							</div>
-						</a>	
-					</div>
-					
-					<div class="col item">
-						<a href="">
-							<div class="card h-100">
-								<img src="../_assets/images/profile-blank.jpg" class="card-img-top" alt="...">
-								<div class="card-body">
-									<h4 class="card-title">John Doe</h4>
-									<p class="card-text">Title Goes Here</p>
-								</div>
-							</div>
-						</a>	
-					</div>
-					
-					<div class="col item">
-						<a href="">
-							<div class="card h-100">
-								<img src="../_assets/images/profile-blank.jpg" class="card-img-top" alt="...">
-								<div class="card-body">
-									<h4 class="card-title">John Doe</h4>
-									<p class="card-text">Title Goes Here</p>
-								</div>
-							</div>
-						</a>	
-					</div>
-					
-				</div>	
-				
-				<h3 class="section-header">Sub-Department Name</h3>
-				
-				<div class="row row-cols-1 row-cols-sm-3 row-cols-xl-4">
-					
-					<div class="col item">
-						<a href="">
-							<div class="card h-100">
-								<img src="../_assets/images/profile-blank.jpg" class="card-img-top" alt="...">
-								<div class="card-body">
-									<h4 class="card-title">John Doe</h4>
-									<p class="card-text">Title Goes Here</p>
-								</div>
-							</div>
-						</a>	
-					</div>
-					
-					<div class="col item">
-						<a href="">
-							<div class="card h-100">
-								<img src="../_assets/images/profile-blank.jpg" class="card-img-top" alt="...">
-								<div class="card-body">
-									<h4 class="card-title">John Doe</h4>
-									<p class="card-text">Title Goes Here</p>
-								</div>
-							</div>
-						</a>	
-					</div>
-					
-					<div class="col item">
-						<a href="">
-							<div class="card h-100">
-								<img src="../_assets/images/profile-blank.jpg" class="card-img-top" alt="...">
-								<div class="card-body">
-									<h4 class="card-title">John Doe</h4>
-									<p class="card-text">Title Goes Here</p>
-								</div>
-							</div>
-						</a>	
-					</div>
-					
-					<div class="col item">
-						<a href="">
-							<div class="card h-100">
-								<img src="../_assets/images/profile-blank.jpg" class="card-img-top" alt="...">
-								<div class="card-body">
-									<h4 class="card-title">John Doe</h4>
-									<p class="card-text">Title Goes Here</p>
-								</div>
-							</div>
-						</a>	
-					</div>
-					
-					<div class="col item">
-						<a href="">
-							<div class="card h-100">
-								<img src="../_assets/images/profile-blank.jpg" class="card-img-top" alt="...">
-								<div class="card-body">
-									<h4 class="card-title">John Doe</h4>
-									<p class="card-text">Title Goes Here</p>
-								</div>
-							</div>
-						</a>	
-					</div>
-					
-					<div class="col item">
-						<a href="">
-							<div class="card h-100">
-								<img src="../_assets/images/profile-blank.jpg" class="card-img-top" alt="...">
-								<div class="card-body">
-									<h4 class="card-title">John Doe</h4>
-									<p class="card-text">Title Goes Here</p>
-								</div>
-							</div>
-						</a>	
-					</div>
-					
-				</div>	-->
 				
 			</div>
 			
