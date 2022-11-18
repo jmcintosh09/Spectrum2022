@@ -74,8 +74,8 @@ $titleimagepath = $rootdirectory."/images/spectrum_icon.png"; ?>
 				</div>			
 				<div class="col-md-4 information">
 					<div class="buttons row">
-						<a href="life-case-5.php" class="btn btn-au-odark col">Back</a>
-						<a href="life-case-5-answer.php" class="btn btn-au-bdark col">Next</a>
+						<a href="life-case-5.php" class="btn btn-au-odark col">Back to Video</a>
+						<a href="life-case-5-answer.php" class="btn btn-au-bdark col">Check Answers</a>
 					</div>
 				</div>
 			</div>

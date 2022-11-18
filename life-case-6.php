@@ -81,7 +81,7 @@ $titleimagepath = $rootdirectory."/images/spectrum_icon.png"; ?>
 						</p>
 					<div class="buttons row">
 						<a href="life-case-5.php" class="btn btn-au-odark col">Back</a>
-						<a href="life-case-6-reflections.php" class="btn btn-au-bdark col">Next</a>
+						<a href="life-case-6-reflections.php" class="btn btn-au-bdark col">Discussion and Reflections</a>
 					</div>
 					</div>
 					

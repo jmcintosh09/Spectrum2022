@@ -43,10 +43,10 @@ require($rootdirectory."/_includes/config.php"); ?>
 		  <a class="nav-link" href="#">About</a>
 		</li>
 		<li class="nav-item">
-		  <a class="nav-link" href="case-studies.php">Case Studies</a>
+		  <a class="nav-link" href="#">Case Studies</a>
 		</li>
 		<li class="nav-item">
-		  <a class="nav-link" href="life-cases.php">Life Cases</a>
+		  <a class="nav-link" href="#">Life Cases</a>
 		</li>
 		<li class="nav-item">
 		  <a class="nav-link" href="#">Contact Us</a>
@@ -185,6 +185,162 @@ require($rootdirectory."/_includes/config.php"); ?>
 					</div>
 				
 				</div>
+				
+				<!--<h3 class="section-header">Sub-Department Name</h3>
+				
+				<div class="row row-cols-1 row-cols-sm-3 row-cols-xl-4">
+					
+					<div class="col item">
+						<a href="">
+							<div class="card h-100">
+								<img src="../_assets/images/profile-blank.jpg" class="card-img-top" alt="...">
+								<div class="card-body">
+									<h4 class="card-title">John Doe</h4>
+									<p class="card-text">Title Goes Here</p>
+								</div>
+							</div>
+						</a>	
+					</div>
+					
+					<div class="col item">
+						<a href="">
+							<div class="card h-100">
+								<img src="../_assets/images/profile-blank.jpg" class="card-img-top" alt="...">
+								<div class="card-body">
+									<h4 class="card-title">John Doe</h4>
+									<p class="card-text">Title Goes Here</p>
+								</div>
+							</div>
+						</a>	
+					</div>
+					
+					<div class="col item">
+						<a href="">
+							<div class="card h-100">
+								<img src="../_assets/images/profile-blank.jpg" class="card-img-top" alt="...">
+								<div class="card-body">
+									<h4 class="card-title">John Doe</h4>
+									<p class="card-text">Title Goes Here</p>
+								</div>
+							</div>
+						</a>	
+					</div>
+					
+					<div class="col item">
+						<a href="">
+							<div class="card h-100">
+								<img src="../_assets/images/profile-blank.jpg" class="card-img-top" alt="...">
+								<div class="card-body">
+									<h4 class="card-title">John Doe</h4>
+									<p class="card-text">Title Goes Here</p>
+								</div>
+							</div>
+						</a>	
+					</div>
+					
+					<div class="col item">
+						<a href="">
+							<div class="card h-100">
+								<img src="../_assets/images/profile-blank.jpg" class="card-img-top" alt="...">
+								<div class="card-body">
+									<h4 class="card-title">John Doe</h4>
+									<p class="card-text">Title Goes Here</p>
+								</div>
+							</div>
+						</a>	
+					</div>
+					
+					<div class="col item">
+						<a href="">
+							<div class="card h-100">
+								<img src="../_assets/images/profile-blank.jpg" class="card-img-top" alt="...">
+								<div class="card-body">
+									<h4 class="card-title">John Doe</h4>
+									<p class="card-text">Title Goes Here</p>
+								</div>
+							</div>
+						</a>	
+					</div>
+					
+				</div>	
+				
+				<h3 class="section-header">Sub-Department Name</h3>
+				
+				<div class="row row-cols-1 row-cols-sm-3 row-cols-xl-4">
+					
+					<div class="col item">
+						<a href="">
+							<div class="card h-100">
+								<img src="../_assets/images/profile-blank.jpg" class="card-img-top" alt="...">
+								<div class="card-body">
+									<h4 class="card-title">John Doe</h4>
+									<p class="card-text">Title Goes Here</p>
+								</div>
+							</div>
+						</a>	
+					</div>
+					
+					<div class="col item">
+						<a href="">
+							<div class="card h-100">
+								<img src="../_assets/images/profile-blank.jpg" class="card-img-top" alt="...">
+								<div class="card-body">
+									<h4 class="card-title">John Doe</h4>
+									<p class="card-text">Title Goes Here</p>
+								</div>
+							</div>
+						</a>	
+					</div>
+					
+					<div class="col item">
+						<a href="">
+							<div class="card h-100">
+								<img src="../_assets/images/profile-blank.jpg" class="card-img-top" alt="...">
+								<div class="card-body">
+									<h4 class="card-title">John Doe</h4>
+									<p class="card-text">Title Goes Here</p>
+								</div>
+							</div>
+						</a>	
+					</div>
+					
+					<div class="col item">
+						<a href="">
+							<div class="card h-100">
+								<img src="../_assets/images/profile-blank.jpg" class="card-img-top" alt="...">
+								<div class="card-body">
+									<h4 class="card-title">John Doe</h4>
+									<p class="card-text">Title Goes Here</p>
+								</div>
+							</div>
+						</a>	
+					</div>
+					
+					<div class="col item">
+						<a href="">
+							<div class="card h-100">
+								<img src="../_assets/images/profile-blank.jpg" class="card-img-top" alt="...">
+								<div class="card-body">
+									<h4 class="card-title">John Doe</h4>
+									<p class="card-text">Title Goes Here</p>
+								</div>
+							</div>
+						</a>	
+					</div>
+					
+					<div class="col item">
+						<a href="">
+							<div class="card h-100">
+								<img src="../_assets/images/profile-blank.jpg" class="card-img-top" alt="...">
+								<div class="card-body">
+									<h4 class="card-title">John Doe</h4>
+									<p class="card-text">Title Goes Here</p>
+								</div>
+							</div>
+						</a>	
+					</div>
+					
+				</div>	-->
 				
 			</div>
 			
