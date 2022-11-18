@@ -40,9 +40,9 @@ $titleimagepath = $rootdirectory."/images/spectrum_icon.png"; ?>
 			<nav aria-label="breadcrumb">
 			  <ol class="breadcrumb">
 				<li class="breadcrumb-item"><a href="index.php">Spectrum</a></li>
-				<li class="breadcrumb-item"><a href="life-cases.php">Life Cases</a></li>
-				<li class="breadcrumb-item"><a href="life-case-1.php">Life Case 1</a></li>
-				<li class="breadcrumb-item active" aria-current="page">Life Case 1 Reflection</li>
+				<li class="breadcrumb-item"><a href="case-studeies.php">Case Studies</a></li>
+				<li class="breadcrumb-item"><a href="case-study-1.php">Case Study 1</a></li>
+				<li class="breadcrumb-item active" aria-current="page">Case Study 1 Reflection</li>
 			  </ol>
 			</nav>
 			
@@ -51,23 +51,22 @@ $titleimagepath = $rootdirectory."/images/spectrum_icon.png"; ?>
 		<div class="content_row row">
 			
 			<div class="col">
-				<h2 class="section-header">Life Case 1</h2>
-				<h3 class="section-header">Threatening Student</h3>
+				<h2 class="section-header">Case Study 1</h2>
+				<h3 class="section-header">Experience Student</h3>
 				<div class="col-md-6 information">
 					<div class="info">
 					
-						<strong> What is the next course of action you should take?</strong>
+						<strong> Considering Darrens behavioral problems and his history of antagonizing fellow students, should he be permitted to continue his presentation?</strong>
 						<br>
-						<input name="Radio1" type="radio" value="yes"> Schedule a conference with the parents. <br>
-						<input name="Radio1" type="radio" value="no"> Send them to time-out. <br>
-						<input name="Radio1" type="radio" value="no"> Send the students to the counselor. <br>	
+						<input name="Radio1" type="radio" value="yes"> Yes, I should be permitted to continue his presentation. <br>
+                        <input name="Radio1" type="radio" value="no"> No, I should not be permitted to continue his presentation. <br>
 						<br>				
 					</div>
 				</div>			
 				<div class="col-md-4 information">
 					<div class="buttons row">
-						<a href="life-case-1.php" class="btn btn-au-odark col">Back to Video</a>
-						<a href="life-case-1-answer.php" class="btn btn-au-bdark col">Check Answer</a>
+						<a href="case-study-1.php" class="btn btn-au-odark col">Back to Video</a>
+						<a href="case-study-1-answer.php" class="btn btn-au-bdark col">Check Answer</a>
 					</div>
 				</div>
 			</div>

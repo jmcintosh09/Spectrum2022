@@ -8,7 +8,7 @@ $titleimagepath = $rootdirectory."/images/spectrum_icon.png"; ?>
 	/* PAGE & SPECIFIC METADATA - These are basic page metadata variables that can be customized for each page; These can also be updated on your config file for site-wide usage */
 
 	$sitename = "Auburn University";
-	$pagetitle = "Life Case 1";
+	$pagetitle = "Case Study 9";
 	$keywords = "Auburn University, Auburn, Alabama, War Eagle";
 	$description = "Auburn University, one of the South’s largest universities, is a leader in arts and applied science education, and it brings a tradition of spirit to the responsive career preparation it offers.";
  	$previewimage = "https://auburn.edu/template/2022/_assets/images/bank/page-preview-samford-03.jpg";
@@ -40,9 +40,9 @@ $titleimagepath = $rootdirectory."/images/spectrum_icon.png"; ?>
 			<nav aria-label="breadcrumb">
 			  <ol class="breadcrumb">
 				<li class="breadcrumb-item"><a href="index.php">Spectrum</a></li>
-				<li class="breadcrumb-item"><a href="life-cases.php">Life Cases</a></li>
-				<li class="breadcrumb-item"><a href="life-case-1.php">Life Case 1</a></li>
-				<li class="breadcrumb-item active" aria-current="page">Life Case 1 Reflection</li>
+				<li class="breadcrumb-item"><a href="case-studies.php">Case Studies</a></li>
+				<li class="breadcrumb-item"><a href="case-study-9.php">Case Study 9</a></li>
+				<li class="breadcrumb-item active" aria-current="page">Case Study 9 Answers</li>
 			  </ol>
 			</nav>
 			
@@ -51,23 +51,27 @@ $titleimagepath = $rootdirectory."/images/spectrum_icon.png"; ?>
 		<div class="content_row row">
 			
 			<div class="col">
-				<h2 class="section-header">Life Case 1</h2>
-				<h3 class="section-header">Threatening Student</h3>
+				<h2 class="section-header">Case Study 9</h2>
+				<h3 class="section-header">Personal Talker</h3>
 				<div class="col-md-6 information">
-					<div class="info">
-					
-						<strong> What is the next course of action you should take?</strong>
-						<br>
-						<input name="Radio1" type="radio" value="yes"> Schedule a conference with the parents. <br>
-						<input name="Radio1" type="radio" value="no"> Send them to time-out. <br>
-						<input name="Radio1" type="radio" value="no"> Send the students to the counselor. <br>	
-						<br>				
+					<div class="info">					
+                    
+					<strong>If you are in Ms. Smith's situation, what would you do?  </strong>
+					<br>
+					<br>
+					It is a good idea to deviate the topic into the topic to be covered in class. By stopping Andy abruptly in the middle, you might
+					spoil his enthusiasm.
+
+					<strong>If the situation continues with Andy every week, what would you do? </strong>
+					<br>
+					<br>
+					If the situation continues every week, it is better to explain to Andy that he cannot speak everyday and he has to give opportunity to other students to speak.
+                    <br>
+                    <br>
 					</div>
-				</div>			
-				<div class="col-md-4 information">
 					<div class="buttons row">
-						<a href="life-case-1.php" class="btn btn-au-odark col">Back to Video</a>
-						<a href="life-case-1-answer.php" class="btn btn-au-bdark col">Check Answer</a>
+						<a href="case-study-9-reflections.php" class="btn btn-au-odark col">Back</a>
+						<a href="T-Note-9.php" class="btn btn-au-bdark col">Teacher's Note</a>
 					</div>
 				</div>
 			</div>

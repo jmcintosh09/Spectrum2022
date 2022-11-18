@@ -8,7 +8,7 @@ $titleimagepath = $rootdirectory."/images/spectrum_icon.png"; ?>
 	/* PAGE & SPECIFIC METADATA - These are basic page metadata variables that can be customized for each page; These can also be updated on your config file for site-wide usage */
 
 	$sitename = "Auburn University";
-	$pagetitle = "Life Case 1";
+	$pagetitle = "Life Case 6";
 	$keywords = "Auburn University, Auburn, Alabama, War Eagle";
 	$description = "Auburn University, one of the South’s largest universities, is a leader in arts and applied science education, and it brings a tradition of spirit to the responsive career preparation it offers.";
  	$previewimage = "https://auburn.edu/template/2022/_assets/images/bank/page-preview-samford-03.jpg";
@@ -41,8 +41,8 @@ $titleimagepath = $rootdirectory."/images/spectrum_icon.png"; ?>
 			  <ol class="breadcrumb">
 				<li class="breadcrumb-item"><a href="index.php">Spectrum</a></li>
 				<li class="breadcrumb-item"><a href="life-cases.php">Life Cases</a></li>
-				<li class="breadcrumb-item"><a href="life-case-1.php">Life Case 1</a></li>
-				<li class="breadcrumb-item active" aria-current="page">Life Case 1 Reflection</li>
+				<li class="breadcrumb-item"><a href="life-case-1.php">Life Case 6</a></li>
+				<li class="breadcrumb-item active" aria-current="page">Life Case 6 Answers</li>
 			  </ol>
 			</nav>
 			
@@ -51,23 +51,37 @@ $titleimagepath = $rootdirectory."/images/spectrum_icon.png"; ?>
 		<div class="content_row row">
 			
 			<div class="col">
-				<h2 class="section-header">Life Case 1</h2>
-				<h3 class="section-header">Threatening Student</h3>
+				<h2 class="section-header">Life Case 6</h2>
+				<h3 class="section-header">Emotionally Neglected Student</h3>
 				<div class="col-md-6 information">
-					<div class="info">
-					
-						<strong> What is the next course of action you should take?</strong>
+					<div class="info">					
+						<strong>What is the best possible way to handle this situation? </strong>
 						<br>
-						<input name="Radio1" type="radio" value="yes"> Schedule a conference with the parents. <br>
-						<input name="Radio1" type="radio" value="no"> Send them to time-out. <br>
-						<input name="Radio1" type="radio" value="no"> Send the students to the counselor. <br>	
-						<br>				
+						The best answer could be talking to Jill about her situation and helping her out. Try explaning to her the classes she missed in your free time.
+						<br>
+						<br>
 					</div>
-				</div>			
-				<div class="col-md-4 information">
+
+					<div class="info">
+						<strong>Analysing Jill's behaviour, what could be the reason for Jill's lack of interest in class?</strong>
+						<br>
+						Due to the diffrent spontaneous trips Jill is going, she missed out on many classes. So, when she returned to school, she is
+						not able to understand tee new material which is based on the old material. So, she lost interest in what is going on in the class.
+						<br>
+						<br>
+					</div>
+
+					<div class="info">
+						<strong>As Jill's parents are not showing interest in their daughter's academic status, what can you do about them? </strong>
+						<br>
+						Having concern about their daughter's academic success is a personal choice to Jill's parents. So, you cannot do anything about it except ignore them.
+						Making your effort to help Jill is the best way.
+						<br>
+						<br>
+					</div>
 					<div class="buttons row">
-						<a href="life-case-1.php" class="btn btn-au-odark col">Back to Video</a>
-						<a href="life-case-1-answer.php" class="btn btn-au-bdark col">Check Answer</a>
+						<a href="life-case-6-reflections.php" class="btn btn-au-odark col">Back</a>
+						<a href="life-cases.php" class="btn btn-au-bdark col">Life Cases</a>
 					</div>
 				</div>
 			</div>

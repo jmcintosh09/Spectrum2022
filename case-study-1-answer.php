@@ -8,7 +8,7 @@ $titleimagepath = $rootdirectory."/images/spectrum_icon.png"; ?>
 	/* PAGE & SPECIFIC METADATA - These are basic page metadata variables that can be customized for each page; These can also be updated on your config file for site-wide usage */
 
 	$sitename = "Auburn University";
-	$pagetitle = "Life Case 1";
+	$pagetitle = "Case Study 1";
 	$keywords = "Auburn University, Auburn, Alabama, War Eagle";
 	$description = "Auburn University, one of the South’s largest universities, is a leader in arts and applied science education, and it brings a tradition of spirit to the responsive career preparation it offers.";
  	$previewimage = "https://auburn.edu/template/2022/_assets/images/bank/page-preview-samford-03.jpg";
@@ -40,9 +40,9 @@ $titleimagepath = $rootdirectory."/images/spectrum_icon.png"; ?>
 			<nav aria-label="breadcrumb">
 			  <ol class="breadcrumb">
 				<li class="breadcrumb-item"><a href="index.php">Spectrum</a></li>
-				<li class="breadcrumb-item"><a href="life-cases.php">Life Cases</a></li>
-				<li class="breadcrumb-item"><a href="life-case-1.php">Life Case 1</a></li>
-				<li class="breadcrumb-item active" aria-current="page">Life Case 1 Reflection</li>
+				<li class="breadcrumb-item"><a href="case-studies.php">Case Studies</a></li>
+				<li class="breadcrumb-item"><a href="case-study-1.php">Case Study 1</a></li>
+				<li class="breadcrumb-item active" aria-current="page">Case Study 1 Answers</li>
 			  </ol>
 			</nav>
 			
@@ -51,23 +51,26 @@ $titleimagepath = $rootdirectory."/images/spectrum_icon.png"; ?>
 		<div class="content_row row">
 			
 			<div class="col">
-				<h2 class="section-header">Life Case 1</h2>
-				<h3 class="section-header">Threatening Student</h3>
+				<h2 class="section-header">Case Study 1</h2>
+				<h3 class="section-header">Experience Student</h3>
 				<div class="col-md-6 information">
-					<div class="info">
-					
-						<strong> What is the next course of action you should take?</strong>
-						<br>
-						<input name="Radio1" type="radio" value="yes"> Schedule a conference with the parents. <br>
-						<input name="Radio1" type="radio" value="no"> Send them to time-out. <br>
-						<input name="Radio1" type="radio" value="no"> Send the students to the counselor. <br>	
-						<br>				
+					<div class="info">					
+                    <strong>Considering Darrens behavioral problems and his history of antagonizing fellow students, should he be permitted to continue his presentation?</strong>
+                    <br>
+                    <br>
+                    Yes, Darren should be permitted to continue his presentation. <br>
+                    
+                    Consistent with teaching practices that are aligned with constructivist philosophy and learning theory, 
+                    current thinking in science education reflects a shift from the teacher imparting knowledge to students, 
+                    with communication mainly one way, to the teacher as a facilitator of learning with students acting both as learners and, 
+                    in some circumstances, as teachers too. When this occurs, networks of student teachers and learners may spring into existence,
+                    and it is quite possible that the teacher sometimes begins acting as a co-learner as well. 
+                    <br>
+                    <br>
 					</div>
-				</div>			
-				<div class="col-md-4 information">
 					<div class="buttons row">
-						<a href="life-case-1.php" class="btn btn-au-odark col">Back to Video</a>
-						<a href="life-case-1-answer.php" class="btn btn-au-bdark col">Check Answer</a>
+						<a href="case-study-1-reflections.php" class="btn btn-au-odark col">Back</a>
+						<a href="T-Note-1.php" class="btn btn-au-bdark col">Teacher's Note</a>
 					</div>
 				</div>
 			</div>
