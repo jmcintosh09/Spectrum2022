@@ -59,7 +59,7 @@ include ($headerpath);
 		  <a class="nav-link" href="#">About</a>
 		</li>
 		<li class="nav-item">
-		  <a class="nav-link" href="#">Case Studies</a>
+		  <a class="nav-link" href="case-studies.php">Case Studies</a>
 		</li>
 		<li class="nav-item">
 		  <a class="nav-link" href="life-cases.php">Life Cases</a>
