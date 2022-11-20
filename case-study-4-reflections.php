@@ -40,7 +40,7 @@ $titleimagepath = $rootdirectory."/images/spectrum_icon.png"; ?>
 			<nav aria-label="breadcrumb">
 			  <ol class="breadcrumb">
 				<li class="breadcrumb-item"><a href="index.php">Spectrum</a></li>
-				<li class="breadcrumb-item"><a href="case-studeies.php">Case Studies</a></li>
+				<li class="breadcrumb-item"><a href="case-studies.php">Case Studies</a></li>
 				<li class="breadcrumb-item"><a href="case-study-4.php">Case Study 4</a></li>
 				<li class="breadcrumb-item active" aria-current="page">Case Study 4 Reflection</li>
 			  </ol>
@@ -57,19 +57,19 @@ $titleimagepath = $rootdirectory."/images/spectrum_icon.png"; ?>
 					<div class="info">
 					<strong>What would you do differently with Melissa's third period class?</strong>
 					<br>
-					<br>
 
-					<input name="Radio1" type="radio" value="yes">Try the lab again the same way.<br>
-					<input name="Radio1" type="radio" value="no"> Have the lab at a later date so you can explain to the students how to us critical thinking to solve a problem.  <br>
+					<input name="Radio1" type="radio" value="yes"> Try the lab again the same way.<br>
+					<input name="Radio1" type="radio" value="no"> Have the lab at a later date so you can explain to the students how to use critical thinking to solve a problem.  <br>
 					<input name="Radio1" type="radio" value="no"> Recreate the lab worksheet that gives the students step by step instructions and has the answer readily available.   <br>
+					<br>
 			
 					<strong>Do you agree with Melissa's initial idea that high school biology students should have opportunities to solve real-world problems and apply concepts?</strong>
 					<br>
-					<br>
 
-					<input name="Radio2" type="radio" value="yes">Yes, problem solving teaches students to develop their own creativity, thinking skills, and communicative skills.<br>
-					<input name="Radio2" type="radio" value="no"> Sure, students should have at least on opportunity to try it.  <br>
-					<input name="Radio2" type="radio" value="no"> No, students are not able to understand critical thinking and apply in to real-world problems.   <br>
+					<input name="Radio2" type="radio" value="yes"> Yes, problem solving teaches students to develop their own creativity, thinking skills, and communicative skills.<br>
+					<input name="Radio2" type="radio" value="no"> Sure, students should have at least one opportunity to try it.  <br>
+					<input name="Radio2" type="radio" value="no"> No, students are not able to understand critical thinking and apply it to real-world problems.   <br>
+					<br>
 					</div>
 				</div>			
 				<div class="col-md-4 information">

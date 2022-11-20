@@ -72,7 +72,7 @@ $titleimagepath = $rootdirectory."/images/spectrum_icon.png"; ?>
                         For this scenario I would like for pre service teachers or 1st year teachers to be aware of the various  responses that the teacher 
                         could have made towards Darren's excitement and knowledge about simple machines and then be able to  correctly handle the situation 
                         in the classroom which will help students be successful and the teacher confident and in control of the class.
-                        Note: Elementary teachers do do have a science background. They rely on their basic science knowledge  from college, 
+                        Note: Elementary teachers do not have to have a science background. They rely on their basic science knowledge from college, 
                         their science method's courses, and science resources provided for them in order to engage students.
 						</p>
 					<div class="buttons row">

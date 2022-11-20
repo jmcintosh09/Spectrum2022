@@ -40,16 +40,13 @@ require($rootdirectory."/_includes/config.php"); ?>
 		  <a class="nav-link" href="index.php">Home</a>
 		</li>
 		<li class="nav-item">
-		  <a class="nav-link" href="#">About</a>
-		</li>
-		<li class="nav-item">
-		  <a class="nav-link" href="#">Case Studies</a>
+		  <a class="nav-link" href="case-studies.php">Case Studies</a>
 		</li>
 		<li class="nav-item">
 		  <a class="nav-link" href="#">Life Cases</a>
 		</li>
 		<li class="nav-item">
-		  <a class="nav-link" href="#">Contact Us</a>
+		  <a class="nav-link" href="contact.php">Contact Us</a>
 		</li>
 	  </ul>
 	</div>

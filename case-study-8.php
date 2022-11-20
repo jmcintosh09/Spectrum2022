@@ -63,11 +63,11 @@ $titleimagepath = $rootdirectory."/images/spectrum_icon.png"; ?>
 				
 				<div class="col-md-6 information">
 					<div class="name">Case Study 8</div>
-					<div class="title">Questionning Student</div>					
+					<div class="title">Questioning Student</div>					
 					<div class="info">
 						<p>
                         Michelle is a middle school teacher and teaching solar system to her students. Tom is a student in her class and asks many questions to Michelle.
-                        These students can be a disaster to classroom management. Explain the student that we have to handle these questions one on one later.
+                        These students can be a disaster to classroom management. Explain to the student that we have to handle these questions one on one later.
 						</p>
 					<div class="buttons row">
 						<a href="case-study-7.php" class="btn btn-au-odark col">Back</a>

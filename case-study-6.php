@@ -66,7 +66,7 @@ $titleimagepath = $rootdirectory."/images/spectrum_icon.png"; ?>
 					<div class="title">Defiant Student</div>					
 					<div class="info">
 						<p>
-                        Tom is a defiant student in the class. Melissa tries different methods with Tom. Melissa requests him with a positive statement. 
+                        Tony is a defiant student in the class. Melissa tries different methods with Tony. Melissa requests him with a positive statement. 
                         She tries to offer support and get advice from him in the discussions.
 						</p>
 					<div class="buttons row">

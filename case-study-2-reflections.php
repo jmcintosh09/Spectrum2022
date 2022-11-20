@@ -40,7 +40,7 @@ $titleimagepath = $rootdirectory."/images/spectrum_icon.png"; ?>
 			<nav aria-label="breadcrumb">
 			  <ol class="breadcrumb">
 				<li class="breadcrumb-item"><a href="index.php">Spectrum</a></li>
-				<li class="breadcrumb-item"><a href="case-studeies.php">Case Studies</a></li>
+				<li class="breadcrumb-item"><a href="case-studies.php">Case Studies</a></li>
 				<li class="breadcrumb-item"><a href="case-study-2.php">Case Study 2</a></li>
 				<li class="breadcrumb-item active" aria-current="page">Case Study 2 Reflection</li>
 			  </ol>
@@ -56,25 +56,24 @@ $titleimagepath = $rootdirectory."/images/spectrum_icon.png"; ?>
 				<div class="col-md-6 information">
 					<div class="info">
                         <strong>
-                        Mary has provided John with opportunities to peek his interest in class. Do you think Mary should have ignored John's behaviour
+                        Mary has provided John with opportunities to pique his interest in class. Do you think Mary should have ignored John's behaviour
                         and think that he should learn by himself?
                         </strong>
                         <br>
-                        <br>
                         <input name="Radio1" type="radio" value="yes"> Yes, I think Mary should allow John to learn by himself. <br>
-                        <input name="Radio1" type="radio" value="no"> No, I think Mary sould help John to peak his interest. <br>
+                        <input name="Radio1" type="radio" value="no"> No, I think Mary should help John to pique his interest. <br>
+                    	<br>
                     
 
-                        <strong>In the case of John, Do you think that Mary's strategy would work?</strong>
-                        <br>
+                        <strong>In the case of John, do you think that Mary's strategy would work?</strong>
                         <br>
                         <input name="Radio2" type="radio" value="yes"> Yes, I think Mary's strategy would work. <br>
-                        <input name="Radio2" type="radio" value="no"> No, I think Mary should follow a better strategy to peak John's interest. <br>
+                        <input name="Radio2" type="radio" value="no"> No, I think Mary should follow a better strategy to pique John's interest. <br>
+                        <br>
 
                         <strong>What other strategy should Mary follow to involve John in class?</strong>
                         <br>
-                        <br>
-                        <input name="Radio3" type="radio" value="one"> Make John to have group discussion with his friends.<br>
+                        <input name="Radio3" type="radio" value="one"> Make John have group discussion with his friends.<br>
                         <input name="Radio3" type="radio" value="two"> Ask John questions in the middle of the lecture so that he does not sleep. <br>
                         <input name="Radio3" type="radio" value="three"> Give John extra assignments in the subject.<br> 
                         <br>	
@@ -83,7 +82,7 @@ $titleimagepath = $rootdirectory."/images/spectrum_icon.png"; ?>
 				<div class="col-md-4 information">
 					<div class="buttons row">
 						<a href="case-study-2.php" class="btn btn-au-odark col">Back to Video</a>
-						<a href="case-study-1-answer.php" class="btn btn-au-bdark col">Check Answer</a>
+						<a href="case-study-2-answer.php" class="btn btn-au-bdark col">Check Answer</a>
 					</div>
 				</div>
 			</div>

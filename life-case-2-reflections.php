@@ -59,7 +59,7 @@ $titleimagepath = $rootdirectory."/images/spectrum_icon.png"; ?>
 						<br>
 						<input name="Radio2" type="radio" value="yes"> Yes, as giving more attention to them make it worse <br>
 						<input name="Radio2" type="radio" value="no"> No, if ignored, the boys might take it for granted and continue. <br>
-						<input name="Radio2" type="radio" value="no">Depends on the state of boys behaviour.<br>	
+						<input name="Radio2" type="radio" value="no"> Depends on the state of boys behaviour.<br>	
 						<br>			
 					</div>
 					<div class="info">

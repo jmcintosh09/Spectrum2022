@@ -40,7 +40,7 @@ $titleimagepath = $rootdirectory."/images/spectrum_icon.png"; ?>
 			<nav aria-label="breadcrumb">
 			  <ol class="breadcrumb">
 				<li class="breadcrumb-item"><a href="index.php">Spectrum</a></li>
-				<li class="breadcrumb-item"><a href="case-studeies.php">Case Studies</a></li>
+				<li class="breadcrumb-item"><a href="case-studies.php">Case Studies</a></li>
 				<li class="breadcrumb-item"><a href="case-study-9.php">Case Study </a></li>
 				<li class="breadcrumb-item active" aria-current="page">Case Study 9 Reflection</li>
 			  </ol>
@@ -58,17 +58,17 @@ $titleimagepath = $rootdirectory."/images/spectrum_icon.png"; ?>
 					
 						<strong>If you are in Ms. Smith's situation, what would you do?</strong>
 						<br>
-						<br>
 						<input name="Radio2" type="radio" value="yes"> Ignore about Andy's talk and continue with the class. <br>
-						<input name="Radio2" type="radio" value="no"> As Andy to stop telling about his weekend and continue with the class. <br>
+						<input name="Radio2" type="radio" value="no"> Ask Andy to stop telling about his weekend and continue with the class. <br>
 						<input name="Radio2" type="radio" value="no"> Try deviating the topic into the topic to be covered in the class.<br>
+						<br>
 
 						<strong>If the situation continues with Andy every week, what would you do? </strong>
 						<br>
-						<br>
 						<input name="Radio1" type="radio" value="yes"> Ignore it and continue with your plan.<br>
-						<input name="Radio1" type="radio" value="no"> After the class, talk to Andy and explain it to him that he cannot speak every week. <br>
-						<input name="Radio1" type="radio" value="no"> Make a particular student to speak every week by calling the student's name. <br>
+						<input name="Radio1" type="radio" value="no"> After the class, talk to Andy and explain to him that he cannot speak every week. <br>
+						<input name="Radio1" type="radio" value="no"> Choose a particular student to speak every week by calling the student's name. <br>
+						<br>
 					</div>
 				</div>			
 				<div class="col-md-4 information">

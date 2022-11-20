@@ -55,30 +55,32 @@ $titleimagepath = $rootdirectory."/images/spectrum_icon.png"; ?>
 				<h3 class="section-header">Cooperation in Class</h3>
 				<div class="col-md-6 information">
 					<div class="info">					
-                    <strong>Do you think cooperative work groups are used to promote science learning ?</strong>
+                    <strong>Do you think cooperative work groups are used to promote science learning?</strong>
                     <br>
-                    <br>
-                    According to Kathy Cabe Trundle, cooperative learning can be an effective strategy for some students, not all students
-                    learn successfully in a group arrangement.Teachers must determine whether students whether students are independent or 
+                    According to Kathy Cabe Trundle, cooperative learning can be an effective strategy for some students. Not all students
+                    learn successfully in a group arrangement. Teachers must determine whether students are independent or 
                     social learners. 
-                    <strong>Do you think the potential advantages of coperative learning outweigh the potential disadvantages? </strong>
                     <br>
+                    <br>
+                    <strong>Do you think the potential advantages of coperative learning outweigh the potential disadvantages? </strong>
                     <br>
                     According to Kathy Cabe Trundle, cooperative learning can be made advantageous through three strategies: addressing students' individual 
                     learning styles, implementing homogenous gender grouping, and holding students individually accountable for their work in cooperative groups.
+                    <br>
+                    <br>
 
                     <strong>Would you encourage Maggie to: </strong>
-                    <br>
                     <br>
                         Kathy encourages Maggie to modify her plan for student assessment. For cooperative groups to be successful, students must have a group 
                         reward and individual accountability. Maggie could add an individual student assessment component to her cooperative learning model by
                         giving individual tests or quizzes to each student or randomly selecting work from one student to represent the entire group.
 
                     <br>
+                    <br>
 					</div>
 					<div class="buttons row">
 						<a href="case-study-3-reflections.php" class="btn btn-au-odark col">Back</a>
-						<a href="T-Note-3.php" class="btn btn-au-bdark col">Teacher's Note</a>
+						<a href="case-study-4.php" class="btn btn-au-bdark col">Next Case Study</a>
 					</div>
 				</div>
 			</div>

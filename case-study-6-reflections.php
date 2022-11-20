@@ -40,7 +40,7 @@ $titleimagepath = $rootdirectory."/images/spectrum_icon.png"; ?>
 			<nav aria-label="breadcrumb">
 			  <ol class="breadcrumb">
 				<li class="breadcrumb-item"><a href="index.php">Spectrum</a></li>
-				<li class="breadcrumb-item"><a href="case-studeies.php">Case Studies</a></li>
+				<li class="breadcrumb-item"><a href="case-studies.php">Case Studies</a></li>
 				<li class="breadcrumb-item"><a href="case-study-6.php">Case Study 6</a></li>
 				<li class="breadcrumb-item active" aria-current="page">Case Study 6 Reflection</li>
 			  </ol>
@@ -51,25 +51,16 @@ $titleimagepath = $rootdirectory."/images/spectrum_icon.png"; ?>
 		<div class="content_row row">
 			
 			<div class="col">
-				<h2 class="section-header">Case Study 1</h2>
+				<h2 class="section-header">Case Study 6</h2>
 				<h3 class="section-header">Defiant Student</h3>
 				<div class="col-md-6 information">
 					<div class="info">
-						<strong>What would you do differently with Melissa's third period class?</strong>
-						<br>
-						<br>
-
-						<input name="Radio1" type="radio" value="yes">Try the lab again the same way.<br>
-						<input name="Radio1" type="radio" value="no"> Have the lab at a later date so you can explain to the students how to us critical thinking to solve a problem.  <br>
-						<input name="Radio1" type="radio" value="no"> Recreate the lab worksheet that gives the students step by step instructions and has the answer readily available.   <br>			
-						
-						<strong>Do you agree with Melissa's initial idea that high school biology students should have opportunities to solve real-world problems and apply concepts?</strong>
-						<br>
+						<strong>Do you think Tony is being defiant because he doesn't understand the material?</strong>
 						<br>
 
-						<input name="Radio2" type="radio" value="yes">Yes, problem solving teaches students to develop their own creativity, thinking skills, and communicative skills.<br>
-						<input name="Radio2" type="radio" value="no"> Sure, students should have at least on opportunity to try it.  <br>
-						<input name="Radio2" type="radio" value="no"> No, students are not able to understand critical thinking and apply in to real-world problems.   <br>
+						<input name="Radio1" type="radio" value="yes"> Yes, he might be too embarrassed to ask for help.<br>
+						<input name="Radio1" type="radio" value="no"> No, he just doesn't want to do what the teacher asks of him.  <br>
+						<input name="Radio1" type="radio" value="no"> Cannot tell.   <br>			
 						<br>				
 					</div>
 				</div>			

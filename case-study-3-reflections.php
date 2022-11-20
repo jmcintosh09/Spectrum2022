@@ -40,7 +40,7 @@ $titleimagepath = $rootdirectory."/images/spectrum_icon.png"; ?>
 			<nav aria-label="breadcrumb">
 			  <ol class="breadcrumb">
 				<li class="breadcrumb-item"><a href="index.php">Spectrum</a></li>
-				<li class="breadcrumb-item"><a href="case-studeies.php">Case Studies</a></li>
+				<li class="breadcrumb-item"><a href="case-studies.php">Case Studies</a></li>
 				<li class="breadcrumb-item"><a href="case-study-3.php">Case Study 3</a></li>
 				<li class="breadcrumb-item active" aria-current="page">Case Study 3 Reflection</li>
 			  </ol>
@@ -55,30 +55,31 @@ $titleimagepath = $rootdirectory."/images/spectrum_icon.png"; ?>
 				<h3 class="section-header">Cooperation in Class</h3>
 				<div class="col-md-6 information">
 					<div class="info">
-					<strong>Do you think cooperative work groups are used to promote science learning ?</strong>
-					<br>
+					<strong>Do you think cooperative work groups are used to promote science learning?</strong>
 					<br>
 					
 					<input name="Radio1" type="radio" value="yes"> Yes, I think cooperative groups can be used to promote science learning. <br>
 					<input name="Radio1" type="radio" value="no"> No, I think cooperative groups cannot be used to promote science learning. <br>
 					<input name="Radio1" type="radio" value="none"> Cannot tell. <br>
+					<br>
 						
 						
 					<strong>Do you think the potential advantages of coperative learning outweigh the potential disadvantages? </strong>
 					<br>
-					<br>
 					<input name="Radio2" type="radio" value="yes"> Yes, I think the potential advantages of coperative learning outweigh the potential disadvantages <br>
 					<input name="Radio2" type="radio" value="no"> No, the potential advantages of coperative learning cannot outweigh the potential disadvantages <br>
 					<input name="Radio3" type="radio" value="none"> Cannot tell <br>
+					<br>
 
 
 					<strong>Would you encourage Maggie to: </strong>
-					<br>
 					<br>
 					<input name="Radio3" type="radio" value="Continue plan"> Continue with her original plan. <br>
 					<input name="Radio3" type="radio" value="modify plan"> Modify her original plan. <br>
 					<input name="Radio3" type="radio" value="scrap plan"> Scrap the plan entirely. <br>
 					<input name="Radio3" type="radio" value="none"> Cannot tell.
+					<br>
+					<br>
 
 							
 					</div>
