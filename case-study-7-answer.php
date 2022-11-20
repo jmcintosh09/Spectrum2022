@@ -58,14 +58,14 @@ $titleimagepath = $rootdirectory."/images/spectrum_icon.png"; ?>
                     
                   <strong>If you are in Mr. Small's situation, what would you do? </strong>
                   <br>
+                  Explaining to the student about the situation is the best way to handle the situation. Trish was accustomed to math on Monday.
+                  By changing it to history, you should be able to explain it her your choice.
                   <br>
-                  Explaing the student about the situation is the best way to handle the situation. Trish was accustomed to maths on monday.
-                  By changing it to history, you should be able to explain it her about your choice.
+                  <br>
 
                   <strong>What would you do if Trish is not the only student who feel sthe same about maths? </strong>
                   <br>
-                  <br>
-                  Try teaching history for some days. If majority of the students still want maths to be taught on monday, then it is better to teach maths on monday.
+                  Try teaching history for some days. If majority of the students still want math to be taught on Monday, then it is better to teach math on Monday.
                     <br>
                     <br>
 					</div>

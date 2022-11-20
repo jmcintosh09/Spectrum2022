@@ -67,7 +67,7 @@ $titleimagepath = $rootdirectory."/images/spectrum_icon.png"; ?>
 					<div class="info">
 						<p>
                         Many students are apathetic for many different reasons. In this case, John was not interested in this class. But the teacher provides more motivation and
-                    	activities to intrigue John and peek his interest.
+                    	activities to intrigue John and pique his interest.
 						</p>
 					<div class="buttons row">
 						<a href="case-study-1.php" class="btn btn-au-odark col">Back</a>

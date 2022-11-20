@@ -59,7 +59,7 @@ $titleimagepath = $rootdirectory."/images/spectrum_icon.png"; ?>
 						<br>
 						<input name="Radio2" type="radio" value="yes"> Shout at him and make him drop the stone. <br>
 						<input name="Radio2" type="radio" value="no"> Beat him and make him drop the stone. <br>
-						<input name="Radio2" type="radio" value="no">Take the stone out of his hands and take him to the classroom.<br>
+						<input name="Radio2" type="radio" value="no"> Take the stone out of his hands and take him to the classroom.<br>
 						<br>
 					</div>
 

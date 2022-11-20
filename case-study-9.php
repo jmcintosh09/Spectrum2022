@@ -67,7 +67,7 @@ $titleimagepath = $rootdirectory."/images/spectrum_icon.png"; ?>
 					<div class="info">
 						<p>
                         Ms. Smith is a new teacher and to get to know her students better she ask them about their weekend every Monday.
-                        She has a student named Andy that always tells the class and her to much information, because of this she might have to change her Monday routine.
+                        She has a student named Andy that always tells the class too much information. Because of this she might have to change her Monday routine.
 						</p>
 					<div class="buttons row">
 						<a href="case-study-8.php" class="btn btn-au-odark col">Back</a>

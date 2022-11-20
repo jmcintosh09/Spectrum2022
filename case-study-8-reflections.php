@@ -40,7 +40,7 @@ $titleimagepath = $rootdirectory."/images/spectrum_icon.png"; ?>
 			<nav aria-label="breadcrumb">
 			  <ol class="breadcrumb">
 				<li class="breadcrumb-item"><a href="index.php">Spectrum</a></li>
-				<li class="breadcrumb-item"><a href="case-studeies.php">Case Studies</a></li>
+				<li class="breadcrumb-item"><a href="case-studies.php">Case Studies</a></li>
 				<li class="breadcrumb-item"><a href="case-study-8.php">Case Study 8</a></li>
 				<li class="breadcrumb-item active" aria-current="page">Case Study 8 Reflection</li>
 			  </ol>
@@ -52,23 +52,23 @@ $titleimagepath = $rootdirectory."/images/spectrum_icon.png"; ?>
 			
 			<div class="col">
 				<h2 class="section-header">Case Study 8</h2>
-				<h3 class="section-header">Questionning Student</h3>
+				<h3 class="section-header">Questioning Student</h3>
 				<div class="col-md-6 information">
 					<div class="info">
 					
 						<strong>If you are in Michelle's situation, what would you do?</strong>
 						<br>
+						<input name="Radio2" type="radio" value="yes"> Ignore Tom and continue with the class. <br>
+						<input name="Radio2" type="radio" value="no"> Get angry at Tom for asking so many questions. <br>
+						<input name="Radio2" type="radio" value="no"> Tell Tom that you will try to explain to him the questions later.<br>
 						<br>
-						<input name="Radio2" type="radio" value="yes"> Ignore Lily and continue with the class. <br>
-						<input name="Radio2" type="radio" value="no"> Get angry at Lily for asking so many questions. <br>
-						<input name="Radio2" type="radio" value="no"> Tell Lily that you will try to explain her about the questions later.<br>
 
-						<strong>If the situation continues with Lily every class, what would you do? </strong>
-						<br>
+						<strong>If the situation continues with Tom every class, what would you do? </strong>
 						<br>
 						<input name="Radio1" type="radio" value="yes"> Ignore it and continue with your plan.<br>
-						<input name="Radio1" type="radio" value="no"> After the class, talk to Lily and explain it to her that asking so many questions can disturb the class. <br>
-						<input name="Radio1" type="radio" value="no"> Answer Lily evertime she asks a question. <br>
+						<input name="Radio1" type="radio" value="no"> After the class, talk to Tom and explain it to him that asking so many questions can disturb the class. <br>
+						<input name="Radio1" type="radio" value="no"> Answer Tom everytime he asks a question. <br>
+						<br>
 					</div>
 				</div>			
 				<div class="col-md-4 information">

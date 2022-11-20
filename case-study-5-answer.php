@@ -41,7 +41,7 @@ $titleimagepath = $rootdirectory."/images/spectrum_icon.png"; ?>
 			  <ol class="breadcrumb">
 				<li class="breadcrumb-item"><a href="index.php">Spectrum</a></li>
 				<li class="breadcrumb-item"><a href="case-studies.php">Case Studies</a></li>
-				<li class="breadcrumb-item"><a href="case-study-6.php">Case Study 5</a></li>
+				<li class="breadcrumb-item"><a href="case-study-5.php">Case Study 5</a></li>
 				<li class="breadcrumb-item active" aria-current="page">Case Study 5 Answers</li>
 			  </ol>
 			</nav>
@@ -51,33 +51,31 @@ $titleimagepath = $rootdirectory."/images/spectrum_icon.png"; ?>
 		<div class="content_row row">
 			
 			<div class="col">
-				<h2 class="section-header">Case Study 1</h2>
+				<h2 class="section-header">Case Study 5</h2>
 				<h3 class="section-header">Innapropriate Comments</h3>
 				<div class="col-md-6 information">
 					<div class="info">					
 
-                    <strong>What would you do differently with Melissa's third period class?</strong>
+                    <strong>How should Ms. Peterson handle this situation?</strong>
                     <br>
+                    The right answer is: Give him a warning and if he doesn't stop, send him to the principal's office.
                     <br>
-                    The right answer is: Have the lab at a later date so you can explain to the students how to use critical thinking to solve a problem.
                     <br>
 
-                    The students were frustrated in fist period because they were not accustomed to using critical thinking to solve problems
-                    in their classes. The students were used to having step by step instruction with the answer to the lab incorporated in the
-                    lab worksheet.  The new way of thinking was unclear to them; they were not prepared to us a different way of thinking.
-                    As a teacher you should explain critical thinking and positive problem-solving altitude. Have the students use the tool
-                    that you taught them and have the lab at a later date.
+                    Give Jack an opportunity to change his behaviour and if he continues to make inappropriate comments, you will need to inform
+					the principal because Jack is being a distraction to the other students.
+                    <br>
+                    <br>
 
                     <strong>
-                        Do you agree with Melissa's initial idea that high school biology students should have opportunities
-                        to solve real-world problems and apply concepts?
+					Should you call Jack's parents?
                     </strong>
                     <br>
+                    The right answer is: Sure, but first give Jack the opportunity to change his behavior.
                     <br>
-                    The right answer is: Yes, problem solving teaches students to develop their own creativity, thinking skills, and communicative skills.
                     <br>
 
-                    Teaching sciences or problem solving is challenging for all teachers. In problem solving, the procedures and problems themselves may be left open for students to determine. Fostering students� learning in the processes of science is an important goal of science teaching. Problem solving teaches students to develop their own creativity, thinking skills, and communicative skills. Many people fell that these skills may be more important than the learning of any particular science fact or concepts.
+                    No student wants their parents to know about their behaviour. Give Jack the chance to change his behaviour and if that doesn't work inform the principal and Jack's parents.
                         <br>
                         <br>
 					</div>

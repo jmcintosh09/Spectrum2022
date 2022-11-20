@@ -52,20 +52,20 @@ $titleimagepath = $rootdirectory."/images/spectrum_icon.png"; ?>
 			
 			<div class="col">
 				<h2 class="section-header">Case Study 8</h2>
-				<h3 class="section-header">Questionning Student</h3>
+				<h3 class="section-header">Questioning Student</h3>
 				<div class="col-md-6 information">
 					<div class="info">					
                     
                   <strong>If you are in Michelle's situation, what would you do?  </strong>
                   <br>
+                  It is a good idea to ask Tom to come and meet you later after the class so that you can explain them to him.
                   <br>
-                  It is a good idea to ask Lily to come and meet you later after the class so that you can explain them to her.
+                  <br>
 
-                  <strong>If the situation continues with Lily every class, what would you do?  </strong>
+                  <strong>If the situation continues with Tom every class, what would you do?  </strong>
                   <br>
-                  <br>
-                  If the situation continues every class, it is better to explain to Lily that asking questions everday in the class can be disturbing to the class.
-                  Tell her to come and meet you personally so that you can explain to her.
+                  If the situation continues every class, it is better to explain to Tom that asking questions everyday in the class can be disturbing to the class.
+                  Tell him to come and meet you personally so that you can explain to him.
                     <br>
                     <br>
 					</div>

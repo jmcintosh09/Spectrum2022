@@ -58,12 +58,12 @@ $titleimagepath = $rootdirectory."/images/spectrum_icon.png"; ?>
                     
 					<strong>If you are in Ms. Smith's situation, what would you do?  </strong>
 					<br>
-					<br>
 					It is a good idea to deviate the topic into the topic to be covered in class. By stopping Andy abruptly in the middle, you might
 					spoil his enthusiasm.
+					<br>
+					<br>
 
 					<strong>If the situation continues with Andy every week, what would you do? </strong>
-					<br>
 					<br>
 					If the situation continues every week, it is better to explain to Andy that he cannot speak everyday and he has to give opportunity to other students to speak.
                     <br>

@@ -40,7 +40,7 @@ $titleimagepath = $rootdirectory."/images/spectrum_icon.png"; ?>
 			<nav aria-label="breadcrumb">
 			  <ol class="breadcrumb">
 				<li class="breadcrumb-item"><a href="index.php">Spectrum</a></li>
-				<li class="breadcrumb-item"><a href="case-studeies.php">Case Studies</a></li>
+				<li class="breadcrumb-item"><a href="case-studies.php">Case Studies</a></li>
 				<li class="breadcrumb-item"><a href="case-study-1.php">Case Study 1</a></li>
 				<li class="breadcrumb-item active" aria-current="page">Case Study 1 Reflection</li>
 			  </ol>

@@ -59,6 +59,7 @@ $titleimagepath = $rootdirectory."/images/spectrum_icon.png"; ?>
                     <br>
                     <br>
                     Yes, Darren should be permitted to continue his presentation. <br>
+                    <br>
                     
                     Consistent with teaching practices that are aligned with constructivist philosophy and learning theory, 
                     current thinking in science education reflects a shift from the teacher imparting knowledge to students, 
@@ -70,7 +71,7 @@ $titleimagepath = $rootdirectory."/images/spectrum_icon.png"; ?>
 					</div>
 					<div class="buttons row">
 						<a href="case-study-1-reflections.php" class="btn btn-au-odark col">Back</a>
-						<a href="T-Note-1.php" class="btn btn-au-bdark col">Teacher's Note</a>
+						<a href="case-study-2.php" class="btn btn-au-bdark col">Next Case Study</a>
 					</div>
 				</div>
 			</div>

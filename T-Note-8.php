@@ -40,7 +40,7 @@ $titleimagepath = $rootdirectory."/images/spectrum_icon.png"; ?>
 			<nav aria-label="breadcrumb">
 			  <ol class="breadcrumb">
 				<li class="breadcrumb-item"><a href="index.php">Spectrum</a></li>
-				<li class="breadcrumb-item"><a href="case-studeies.php">Case Studies</a></li>
+				<li class="breadcrumb-item"><a href="case-studies.php">Case Studies</a></li>
 				<li class="breadcrumb-item"><a href="case-study-8.php">Case Study 8</a></li>
 				<li class="breadcrumb-item active" aria-current="page">Case Study 8 Teacher Note</li>
 			  </ol>
@@ -52,7 +52,7 @@ $titleimagepath = $rootdirectory."/images/spectrum_icon.png"; ?>
 			
 			<div class="col">
 				<h2 class="section-header text-center">Case Study 8</h2>
-				<h3 class="section-header text-center">Quesitonning Student</h3>
+				<h3 class="section-header text-center">Quesitoning Student</h3>
 				<div class="video text-center">
 					<video width="600" height="350" poster = "case-study-images/8/3.png" controls>
 						<source src="videos/8 TNote.mp4" type="video/mp4">

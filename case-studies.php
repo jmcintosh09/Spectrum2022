@@ -36,24 +36,18 @@ require($rootdirectory."/_includes/config.php");?>
         </button>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav justify-content-start flex-grow-1 pe-3">
-            <li class="nav-item">
-            <a class="nav-link" href="index.php">Home</a>
-            </li>
-            <li class="nav-item">
-            <a class="nav-link" href="#">Services</a>
-            </li>
-            <li class="nav-item">
-            <a class="nav-link" href="case-studies.php">Case Studies</a>
-            </li>
-            <li class="nav-item">
-            <a class="nav-link" href="life-cases.php">Life Cases</a>
-            </li> 
-            <li class="nav-item">
-            <a class="nav-link" href="#">Tools</a>
-            </li>
-            <li class="nav-item">
-            <a class="nav-link" href="#">Contact Us</a>
-            </li>
+			<li class="nav-item">
+			<a class="nav-link" href="index.php">Home</a>
+			</li>
+			<li class="nav-item">
+			<a class="nav-link" href="#">Case Studies</a>
+			</li>
+			<li class="nav-item">
+			<a class="nav-link" href="life-cases.php">Life Cases</a>
+			</li>
+			<li class="nav-item">
+			<a class="nav-link" href="contact.php">Contact Us</a>
+			</li>
         </ul>
         </div>
     </div>
@@ -170,7 +164,7 @@ require($rootdirectory."/_includes/config.php");?>
 									onmouseout="this.src='case-study-images/8/2.png';" class="card-img-top" alt="Case Study 8 Pictures">								
                                     <div class="card-body">
 									<h4 class="card-title">Case Study 8</h4>
-									<p class="card-text">Questionning Student</p>
+									<p class="card-text">Questioning Student</p>
 								</div>
 							</div>
 						</a>	

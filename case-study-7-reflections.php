@@ -40,7 +40,7 @@ $titleimagepath = $rootdirectory."/images/spectrum_icon.png"; ?>
 			<nav aria-label="breadcrumb">
 			  <ol class="breadcrumb">
 				<li class="breadcrumb-item"><a href="index.php">Spectrum</a></li>
-				<li class="breadcrumb-item"><a href="case-studeies.php">Case Studies</a></li>
+				<li class="breadcrumb-item"><a href="case-studies.php">Case Studies</a></li>
 				<li class="breadcrumb-item"><a href="case-study-7.php">Case Study 7</a></li>
 				<li class="breadcrumb-item active" aria-current="page">Case Study 7 Reflection</li>
 			  </ol>
@@ -58,17 +58,17 @@ $titleimagepath = $rootdirectory."/images/spectrum_icon.png"; ?>
 					
 						<strong>If you are in Mr. Small's situation, what would you do?</strong>
 						<br>
-						<br>
-						<input name="Radio2" type="radio" value="yes"> Ignore about Trish's questions and continue with the class. <br>
+						<input name="Radio2" type="radio" value="yes"> Ignore Trish's questions and continue with the class. <br>
 						<input name="Radio2" type="radio" value="no"> Stop teaching history and teach maths. <br>
 						<input name="Radio2" type="radio" value="no"> Explain to Trish why you chose to teach Histrory.<br>
-
-						<strong>What would you do if Trish is not the only student who feel sthe same about maths? </strong>
 						<br>
+
+						<strong>What would you do if Trish is not the only student who feel the same about math? </strong>
 						<br>
 						<input name="Radio1" type="radio" value="yes"> Ignore it and continue with your plan.<br>
-						<input name="Radio1" type="radio" value="no"> Explain to students why you chose history to be taught on monday. <br>
-						<input name="Radio1" type="radio" value="no"> As the majority of the students like maths to be taught, try teaching maths on monday. <br>
+						<input name="Radio1" type="radio" value="no"> Explain to students why you chose history to be taught on Monday. <br>
+						<input name="Radio1" type="radio" value="no"> As the majority of the students like math to be taught, try teaching math on Monday. <br>
+						<br>
 					</div>
 				</div>			
 				<div class="col-md-4 information">

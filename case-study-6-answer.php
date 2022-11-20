@@ -56,28 +56,13 @@ $titleimagepath = $rootdirectory."/images/spectrum_icon.png"; ?>
 				<div class="col-md-6 information">
 					<div class="info">					
                    
-                  <strong>What would you do differently with Melissa's third period class?</strong>
+                  <strong>Do you think Tony is being defiant because he doesn't understand the material?</strong>
                   <br>
                   <br>
-                  The right answer is: Have the lab at a later date so you can explain to the students how to use critical thinking to solve a problem.
-                  <br>
-
-                  The students were frustrated in fist period because they were not accustomed to using critical thinking to solve problems
-                  in their classes. The students were used to having step by step instruction with the answer to the lab incorporated in the
-                  lab worksheet.  The new way of thinking was unclear to them; they were not prepared to us a different way of thinking.
-                  As a teacher you should explain critical thinking and positive problem-solving altitude. Have the students use the tool
-                  that you taught them and have the lab at a later date.
-
-                  <strong>
-                      Do you agree with Melissa's initial idea that high school biology students should have opportunities
-                      to solve real-world problems and apply concepts?
-                  </strong>
-                  <br>
-                  <br>
-                  The right answer is: Yes, problem solving teaches students to develop their own creativity, thinking skills, and communicative skills.
+                  The right answer is: Cannot tell.
                   <br>
 
-                  Teaching sciences or problem solving is challenging for all teachers. In problem solving, the procedures and problems themselves may be left open for students to determine. Fostering students� learning in the processes of science is an important goal of science teaching. Problem solving teaches students to develop their own creativity, thinking skills, and communicative skills. Many people fell that these skills may be more important than the learning of any particular science fact or concepts.
+                  There can be many reasons why Tony is being defiant. Ask him some questions to see if he needs help or if he cannot see or understand the material clearly.
                     <br>
                     <br>
 					</div>
