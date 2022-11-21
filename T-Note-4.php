@@ -55,8 +55,8 @@ $titleimagepath = $rootdirectory."/images/spectrum_icon.png"; ?>
 				<h3 class="section-header text-center">Critical Thinking</h3>
 				<div class="video text-center">
 					<video width="600" height="350" poster = "case-study-images/4/3.png" controls>
-						<source src="videos/4 TNote.mp4" type="video/mp4">
-						<source src="videos/4-teacher_s-note.ogv.ogv" type="video/ogv">
+						<source src="videos/5 TNote.mp4" type="video/mp4">
+						<source src="videos/5-teacher_s-note.ogv" type="video/ogv">
 						Your browser does not support the video tag.
 					</video>
 				</div>		

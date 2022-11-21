@@ -56,7 +56,7 @@ $titleimagepath = $rootdirectory."/images/spectrum_icon.png"; ?>
 				<div class="video text-center">
 					<video width="600" height="350" poster = "case-study-images/6/3.png" controls>
 						<source src="videos/6 TNote.mp4" type="video/mp4">
-						<source src="videos/6-teacher_s-note.ogv.ogv" type="video/ogv">
+						<source src="videos/6-teacher_s-note.ogv" type="video/ogv">
 						Your browser does not support the video tag.
 					</video>
 				</div>		
