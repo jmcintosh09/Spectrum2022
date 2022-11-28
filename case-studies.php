@@ -135,7 +135,7 @@ require($rootdirectory."/_includes/config.php");?>
 						<a href="case-study-6.php">
 							<div class="card h-100">
 							<img src="case-study-images\6\2.png" onmouseover="this.src='case-study-images/6/1.png';" 
-									onmouseout="this.src='case-studies-image/6/2.png';" class="card-img-top" alt="Case Study 6 Pictures">								
+									onmouseout="this.src='case-studies-images/6/2.png';" class="card-img-top" alt="Case Study 6 Pictures">								
                                     <div class="card-body">
 									<h4 class="card-title">Case Study 6</h4>
 									<p class="card-text">Defiant Students</p>
