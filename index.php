@@ -79,7 +79,7 @@ include ($headerpath);
 
 			<h2 class="section-header">Why Spectrum Educational Tool?</h2>
 
-            <p>By using Spectrum Education tool, it provides extensive training of teachers which will help them in understanding digital media and know better strategies for successful classroom management. The teachers will be well versed with teaching skills, instructional strategies, curricula and assessment practices. Our goal is to reinforce best practices for classroom management and to create an online learning environment to support pre-service and in-dervice teachers.</p>
+            <p>By using Spectrum Education tool, it provides extensive training of teachers which will help them in understanding digital media and know better strategies for successful classroom management. The teachers will be well versed with teaching skills, instructional strategies, curricula and assessment practices. Our goal is to reinforce best practices for classroom management and to create an online learning environment to support pre-service and in-service teachers.</p>
 
 
 	</div>
