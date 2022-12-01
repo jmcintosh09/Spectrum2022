@@ -66,7 +66,7 @@ $titleimagepath = $rootdirectory."/images/spectrum_icon.png"; ?>
 						<strong>What is the best way to handle the situation?</strong>
 						<br>
 						<input name="Radio1" type="radio" value="yes"> Ignore the behaviour of the boys. <br>
-						<input name="Radio1" type="radio" value="no"> Talk to the boys individually and advice them to not to disturb the class. <br>
+						<input name="Radio1" type="radio" value="no"> Talk to the boys individually and advise them to not to disturb the class. <br>
 						<input name="Radio1" type="radio" value="no"> Punish the most annoying one in the four which makes the others silent. <br>
 						<br>
 					</div>
